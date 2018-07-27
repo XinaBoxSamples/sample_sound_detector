@@ -1,8 +1,9 @@
-#include <xCore.h>
-#include <xOD01.h>
+#include <xCore.h> //find @ https://github.com/xinabox/xCore
+#include <xOD01.h> //find @ https://github.com/xinabox/xOD01
 #include <ESP8266WiFi.h>
 #include "TIMER_CTRL.h"
 #include <Wire.h>
+
 
 // BMX055 Accl I2C address is 0x18(24)
 #define Addr_Accl 0x18
