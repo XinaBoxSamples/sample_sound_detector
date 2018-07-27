@@ -1,5 +1,5 @@
-#include <xCore.h>
-#include <xOD01.h>
+#include <xCore.h> //find @ https://github.com/xinabox/xCore
+#include <xOD01.h> //find @ https://github.com/xinabox/xOD01
 #include "TIMER_CTRL.h"
 #include <Wire.h>
 
